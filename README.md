@@ -6,7 +6,7 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 
 - **Location:** Delhi, India  
 - **Email:** [ashishrana2004@gmail.com](mailto:ashishrana2004@gmail.com)  
-- **Portfolio:** [ashishranatech.tech](https://ashishranatech.tech)
+- **Portfolio:** [ashishrana.tech](https://ashishrana.tech)
 
 
 ## Tech Stack
