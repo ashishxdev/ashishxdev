@@ -9,7 +9,7 @@
 - 🌱 Always open to projects that **solve real problems and create real value**
 - 🎯 Next Goal: **Rust**
 - 👯 Looking to collaborate on **Frontend & Backend projects**
-- 📫 Reach me at: **[ashishrana2004@gmail.com](mailto:ashishrana2004@gmail.com)**
+- 📫 Reach me: **[ashishrana2004@gmail.com](mailto:ashishrana2004@gmail.com)**
 - ⚡ Fun fact: **I love solving coding problems and building beautiful UIs**
 
 ## 🛠️ Tech Stack
