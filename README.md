@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishranatech&show_icons=true&hide_border=true&theme=react&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishranatech&layout=compact&hide_border=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishxdev&show_icons=true&hide_border=true&theme=react&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxdev&layout=compact&hide_border=true&theme=react" width="48%" />
 </div>
 
 ## 🤝 Connect with Me
@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishranatech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashishxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
