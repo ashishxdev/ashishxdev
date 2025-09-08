@@ -1,37 +1,38 @@
 # 👋 Hi there, I'm Aashish
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DSA-Focused+Coder;Always+learning+new+things" alt="Typing SVG" />
+  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+DSA+%26+Web+Development;Exploring+Databases;Building+Step+by+Step" alt="Typing SVG" /> </div>
 </div>
 
 ## 🚀 About Me
-- 🔭 I build smart, fast, and reliable web apps from **backend to frontend**
-- 🌱 Always open to projects that **solve real problems and create real value**
-- 🎯 Next Goal: **Rust**
-- 👯 Looking to collaborate on **Frontend & Backend projects**
-- 📫 Reach me: **[ashishrana2004@gmail.com](mailto:ashishrana2004@gmail.com)**
-- ⚡ Fun fact: **I love solving coding problems and building beautiful UIs**
+- 📚 Currently learning Data Structures & Algorithms
+- 🌱 Exploring Web Development
+- 🔭 Goal: To become a skilled Full Stack Developer
+- 👯 Open to collaborating on beginner-friendly projects
+- 📫 Reach me: ashishrana2004@gmail.com
+- ⚡ Fun fact: I enjoy problem-solving and experimenting with new tech
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Database (Learning)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend (Learning)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
