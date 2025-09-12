@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aashish
 
 <div align="center">
-  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+DSA+%26+Web+Development;Exploring+Next.js;Building+Step+by+Step" alt="Typing SVG" /> </div>
+  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Upskilling+in+DSA+%26+Web+Development;Exploring+Next.js;Building+Step+by+Step" alt="Typing SVG" /> </div>
 </div>
 
 ## 🚀 About Me
