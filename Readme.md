@@ -5,8 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- 📚 Currently learning Data Structures & Algorithms
-- 🌱 Exploring Web Development
+- 📚 Learning Data Structures & Algorithms
 - 🔭 Goal: To become a skilled Full Stack Developer
 - 👯 Open to collaborating on beginner-friendly projects
 - 📫 Reach me: ashishrana2004@gmail.com
@@ -30,8 +29,10 @@
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend (Learning)
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Tools
