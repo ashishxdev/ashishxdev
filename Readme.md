@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishxdev&show_icons=true&hide_border=true&theme=react&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxdev&layout=compact&hide_border=true&theme=react&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxdev&layout=compact&hide_border=true&theme=react&count_private=false" width="48%" />
 </div>
 
 ## 🤝 Connect with Me
