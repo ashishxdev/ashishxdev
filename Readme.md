@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,tailwindcss,react,nodejs,express,mongodb,cpp,git,vscode&theme=dark" />
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxdev&layout=compact&hide_border=true&theme=react" width="30%" />
+</div>
 
 ## 🤝 Connect with Me
 
