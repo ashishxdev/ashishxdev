@@ -55,17 +55,13 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishrana04/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashishxdev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/ashishd2dlife" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
 
 ---
 
